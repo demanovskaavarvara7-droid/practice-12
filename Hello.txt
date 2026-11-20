@@ -1,2 +1,2 @@
 Привет, GitHub!
-Привет из ветки feature/test!
+Привет из ветки feature/test!/
